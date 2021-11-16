@@ -1,0 +1,1000 @@
+date,area,county/state,geoid,cases,country
+21/01/2020,Snohomish,Washington,53061,1,United States
+22/01/2020,Snohomish,Washington,53061,1,United States
+23/01/2020,Snohomish,Washington,53061,1,United States
+24/01/2020,Cook,Illinois,17031,1,United States
+24/01/2020,Snohomish,Washington,53061,1,United States
+25/01/2020,Snohomish,Washington,53061,1,United States
+25/01/2020,Orange,California,6059,1,United States
+25/01/2020,Cook,Illinois,17031,1,United States
+26/01/2020,Maricopa,Arizona,4013,1,United States
+26/01/2020,Cook,Illinois,17031,1,United States
+26/01/2020,Los Angeles,California,6037,1,United States
+26/01/2020,Snohomish,Washington,53061,1,United States
+26/01/2020,Orange,California,6059,1,United States
+27/01/2020,Los Angeles,California,6037,1,United States
+27/01/2020,Orange,California,6059,1,United States
+27/01/2020,Snohomish,Washington,53061,1,United States
+27/01/2020,Maricopa,Arizona,4013,1,United States
+27/01/2020,Cook,Illinois,17031,1,United States
+28/01/2020,Cook,Illinois,17031,1,United States
+28/01/2020,Orange,California,6059,1,United States
+28/01/2020,Los Angeles,California,6037,1,United States
+28/01/2020,Maricopa,Arizona,4013,1,United States
+28/01/2020,Snohomish,Washington,53061,1,United States
+29/01/2020,Los Angeles,California,6037,1,United States
+29/01/2020,Snohomish,Washington,53061,1,United States
+29/01/2020,Maricopa,Arizona,4013,1,United States
+29/01/2020,Cook,Illinois,17031,1,United States
+29/01/2020,Orange,California,6059,1,United States
+30/01/2020,Maricopa,Arizona,4013,1,United States
+30/01/2020,Snohomish,Washington,53061,1,United States
+30/01/2020,Cook,Illinois,17031,2,United States
+30/01/2020,Orange,California,6059,1,United States
+30/01/2020,Los Angeles,California,6037,1,United States
+31/01/2020,Orange,California,6059,1,United States
+31/01/2020,Santa Clara,California,6085,1,United States
+31/01/2020,Snohomish,Washington,53061,1,United States
+31/01/2020,Cook,Illinois,17031,2,United States
+31/01/2020,Maricopa,Arizona,4013,1,United States
+31/01/2020,Los Angeles,California,6037,1,United States
+01/02/2020,Snohomish,Washington,53061,1,United States
+01/02/2020,Cook,Illinois,17031,2,United States
+01/02/2020,Suffolk,Massachusetts,25025,1,United States
+01/02/2020,Maricopa,Arizona,4013,1,United States
+01/02/2020,Los Angeles,California,6037,1,United States
+01/02/2020,Orange,California,6059,1,United States
+01/02/2020,Santa Clara,California,6085,1,United States
+02/02/2020,Santa Clara,California,6085,2,United States
+02/02/2020,Los Angeles,California,6037,1,United States
+02/02/2020,Maricopa,Arizona,4013,1,United States
+02/02/2020,Suffolk,Massachusetts,25025,1,United States
+02/02/2020,Snohomish,Washington,53061,1,United States
+02/02/2020,San Francisco,California,6075,2,United States
+02/02/2020,Cook,Illinois,17031,2,United States
+02/02/2020,Orange,California,6059,1,United States
+03/02/2020,Santa Clara,California,6085,2,United States
+03/02/2020,Cook,Illinois,17031,2,United States
+03/02/2020,Los Angeles,California,6037,1,United States
+03/02/2020,Suffolk,Massachusetts,25025,1,United States
+03/02/2020,Maricopa,Arizona,4013,1,United States
+03/02/2020,Snohomish,Washington,53061,1,United States
+03/02/2020,Orange,California,6059,1,United States
+03/02/2020,San Francisco,California,6075,2,United States
+04/02/2020,San Francisco,California,6075,2,United States
+04/02/2020,Suffolk,Massachusetts,25025,1,United States
+04/02/2020,Cook,Illinois,17031,2,United States
+04/02/2020,Maricopa,Arizona,4013,1,United States
+04/02/2020,Los Angeles,California,6037,1,United States
+04/02/2020,Snohomish,Washington,53061,1,United States
+04/02/2020,Santa Clara,California,6085,2,United States
+04/02/2020,Orange,California,6059,1,United States
+05/02/2020,Snohomish,Washington,53061,1,United States
+05/02/2020,Suffolk,Massachusetts,25025,1,United States
+05/02/2020,Cook,Illinois,17031,2,United States
+05/02/2020,Santa Clara,California,6085,2,United States
+05/02/2020,Los Angeles,California,6037,1,United States
+05/02/2020,Orange,California,6059,1,United States
+05/02/2020,Dane,Wisconsin,55025,1,United States
+05/02/2020,Maricopa,Arizona,4013,1,United States
+05/02/2020,San Francisco,California,6075,2,United States
+06/02/2020,Suffolk,Massachusetts,25025,1,United States
+06/02/2020,Los Angeles,California,6037,1,United States
+06/02/2020,Maricopa,Arizona,4013,1,United States
+06/02/2020,Snohomish,Washington,53061,1,United States
+06/02/2020,Santa Clara,California,6085,2,United States
+06/02/2020,Cook,Illinois,17031,2,United States
+06/02/2020,Dane,Wisconsin,55025,1,United States
+06/02/2020,Orange,California,6059,1,United States
+06/02/2020,San Francisco,California,6075,2,United States
+07/02/2020,San Francisco,California,6075,2,United States
+07/02/2020,Santa Clara,California,6085,2,United States
+07/02/2020,Suffolk,Massachusetts,25025,1,United States
+07/02/2020,Maricopa,Arizona,4013,1,United States
+07/02/2020,Cook,Illinois,17031,2,United States
+07/02/2020,Snohomish,Washington,53061,1,United States
+07/02/2020,Dane,Wisconsin,55025,1,United States
+07/02/2020,Orange,California,6059,1,United States
+07/02/2020,Los Angeles,California,6037,1,United States
+08/02/2020,Orange,California,6059,1,United States
+08/02/2020,Los Angeles,California,6037,1,United States
+08/02/2020,Dane,Wisconsin,55025,1,United States
+08/02/2020,Snohomish,Washington,53061,1,United States
+08/02/2020,Santa Clara,California,6085,2,United States
+08/02/2020,San Francisco,California,6075,2,United States
+08/02/2020,Suffolk,Massachusetts,25025,1,United States
+08/02/2020,Maricopa,Arizona,4013,1,United States
+08/02/2020,Cook,Illinois,17031,2,United States
+09/02/2020,Dane,Wisconsin,55025,1,United States
+09/02/2020,San Francisco,California,6075,2,United States
+09/02/2020,Orange,California,6059,1,United States
+09/02/2020,Cook,Illinois,17031,2,United States
+09/02/2020,Snohomish,Washington,53061,1,United States
+09/02/2020,Maricopa,Arizona,4013,1,United States
+09/02/2020,Suffolk,Massachusetts,25025,1,United States
+09/02/2020,Santa Clara,California,6085,2,United States
+09/02/2020,Los Angeles,California,6037,1,United States
+10/02/2020,San Diego,California,6073,1,United States
+10/02/2020,Dane,Wisconsin,55025,1,United States
+10/02/2020,Snohomish,Washington,53061,1,United States
+10/02/2020,Suffolk,Massachusetts,25025,1,United States
+10/02/2020,Cook,Illinois,17031,2,United States
+10/02/2020,Maricopa,Arizona,4013,1,United States
+10/02/2020,Santa Clara,California,6085,2,United States
+10/02/2020,Orange,California,6059,1,United States
+10/02/2020,Los Angeles,California,6037,1,United States
+10/02/2020,San Francisco,California,6075,2,United States
+11/02/2020,Los Angeles,California,6037,1,United States
+11/02/2020,San Francisco,California,6075,2,United States
+11/02/2020,Dane,Wisconsin,55025,1,United States
+11/02/2020,Orange,California,6059,1,United States
+11/02/2020,San Diego,California,6073,1,United States
+11/02/2020,Maricopa,Arizona,4013,1,United States
+11/02/2020,Cook,Illinois,17031,2,United States
+11/02/2020,Santa Clara,California,6085,2,United States
+11/02/2020,Suffolk,Massachusetts,25025,1,United States
+11/02/2020,Snohomish,Washington,53061,1,United States
+12/02/2020,Snohomish,Washington,53061,1,United States
+12/02/2020,Dane,Wisconsin,55025,1,United States
+12/02/2020,Cook,Illinois,17031,2,United States
+12/02/2020,Santa Clara,California,6085,2,United States
+12/02/2020,San Francisco,California,6075,2,United States
+12/02/2020,San Diego,California,6073,1,United States
+12/02/2020,Suffolk,Massachusetts,25025,1,United States
+12/02/2020,Maricopa,Arizona,4013,1,United States
+12/02/2020,Orange,California,6059,1,United States
+12/02/2020,Bexar,Texas,48029,1,United States
+12/02/2020,Los Angeles,California,6037,1,United States
+13/02/2020,Orange,California,6059,1,United States
+13/02/2020,Los Angeles,California,6037,1,United States
+13/02/2020,Snohomish,Washington,53061,1,United States
+13/02/2020,Dane,Wisconsin,55025,1,United States
+13/02/2020,San Diego,California,6073,1,United States
+13/02/2020,San Francisco,California,6075,2,United States
+13/02/2020,Suffolk,Massachusetts,25025,1,United States
+13/02/2020,Cook,Illinois,17031,2,United States
+13/02/2020,Maricopa,Arizona,4013,1,United States
+13/02/2020,Bexar,Texas,48029,2,United States
+13/02/2020,Santa Clara,California,6085,2,United States
+14/02/2020,Suffolk,Massachusetts,25025,1,United States
+14/02/2020,Los Angeles,California,6037,1,United States
+14/02/2020,Maricopa,Arizona,4013,1,United States
+14/02/2020,Bexar,Texas,48029,2,United States
+14/02/2020,Cook,Illinois,17031,2,United States
+14/02/2020,San Francisco,California,6075,2,United States
+14/02/2020,San Diego,California,6073,1,United States
+14/02/2020,Orange,California,6059,1,United States
+14/02/2020,Santa Clara,California,6085,2,United States
+14/02/2020,Snohomish,Washington,53061,1,United States
+14/02/2020,Dane,Wisconsin,55025,1,United States
+15/02/2020,Snohomish,Washington,53061,1,United States
+15/02/2020,Bexar,Texas,48029,2,United States
+15/02/2020,Dane,Wisconsin,55025,1,United States
+15/02/2020,San Francisco,California,6075,2,United States
+15/02/2020,Santa Clara,California,6085,2,United States
+15/02/2020,Cook,Illinois,17031,2,United States
+15/02/2020,Suffolk,Massachusetts,25025,1,United States
+15/02/2020,Los Angeles,California,6037,1,United States
+15/02/2020,Maricopa,Arizona,4013,1,United States
+15/02/2020,San Diego,California,6073,1,United States
+15/02/2020,Orange,California,6059,1,United States
+16/02/2020,Suffolk,Massachusetts,25025,1,United States
+16/02/2020,Cook,Illinois,17031,2,United States
+16/02/2020,Maricopa,Arizona,4013,1,United States
+16/02/2020,Los Angeles,California,6037,1,United States
+16/02/2020,Orange,California,6059,1,United States
+16/02/2020,Santa Clara,California,6085,2,United States
+16/02/2020,San Francisco,California,6075,2,United States
+16/02/2020,Snohomish,Washington,53061,1,United States
+16/02/2020,Bexar,Texas,48029,2,United States
+16/02/2020,San Diego,California,6073,1,United States
+16/02/2020,Dane,Wisconsin,55025,1,United States
+17/02/2020,Los Angeles,California,6037,1,United States
+17/02/2020,Bexar,Texas,48029,2,United States
+17/02/2020,Suffolk,Massachusetts,25025,1,United States
+17/02/2020,Santa Clara,California,6085,2,United States
+17/02/2020,Maricopa,Arizona,4013,1,United States
+17/02/2020,Orange,California,6059,1,United States
+17/02/2020,San Francisco,California,6075,2,United States
+17/02/2020,Dane,Wisconsin,55025,1,United States
+17/02/2020,Snohomish,Washington,53061,1,United States
+17/02/2020,Cook,Illinois,17031,2,United States
+17/02/2020,San Diego,California,6073,1,United States
+17/02/2020,Douglas,Nebraska,31055,10,United States
+18/02/2020,Bexar,Texas,48029,2,United States
+18/02/2020,Dane,Wisconsin,55025,1,United States
+18/02/2020,Snohomish,Washington,53061,1,United States
+18/02/2020,Douglas,Nebraska,31055,10,United States
+18/02/2020,Suffolk,Massachusetts,25025,1,United States
+18/02/2020,Cook,Illinois,17031,2,United States
+18/02/2020,San Francisco,California,6075,2,United States
+18/02/2020,Maricopa,Arizona,4013,1,United States
+18/02/2020,Los Angeles,California,6037,1,United States
+18/02/2020,San Diego,California,6073,1,United States
+18/02/2020,Santa Clara,California,6085,2,United States
+18/02/2020,Orange,California,6059,1,United States
+19/02/2020,Los Angeles,California,6037,1,United States
+19/02/2020,Maricopa,Arizona,4013,1,United States
+19/02/2020,Suffolk,Massachusetts,25025,1,United States
+19/02/2020,Snohomish,Washington,53061,1,United States
+19/02/2020,Santa Clara,California,6085,2,United States
+19/02/2020,San Francisco,California,6075,2,United States
+19/02/2020,Dane,Wisconsin,55025,1,United States
+19/02/2020,Orange,California,6059,1,United States
+19/02/2020,Bexar,Texas,48029,2,United States
+19/02/2020,Cook,Illinois,17031,2,United States
+19/02/2020,San Diego,California,6073,1,United States
+19/02/2020,Douglas,Nebraska,31055,10,United States
+20/02/2020,San Diego,California,6073,1,United States
+20/02/2020,Humboldt,California,6023,1,United States
+20/02/2020,Maricopa,Arizona,4013,1,United States
+20/02/2020,Orange,California,6059,1,United States
+20/02/2020,Los Angeles,California,6037,1,United States
+20/02/2020,San Francisco,California,6075,2,United States
+20/02/2020,Santa Clara,California,6085,2,United States
+20/02/2020,Cook,Illinois,17031,2,United States
+20/02/2020,Bexar,Texas,48029,2,United States
+20/02/2020,Douglas,Nebraska,31055,11,United States
+20/02/2020,Dane,Wisconsin,55025,1,United States
+20/02/2020,Snohomish,Washington,53061,1,United States
+20/02/2020,Suffolk,Massachusetts,25025,1,United States
+21/02/2020,Cook,Illinois,17031,2,United States
+21/02/2020,Orange,California,6059,1,United States
+21/02/2020,Los Angeles,California,6037,1,United States
+21/02/2020,Santa Clara,California,6085,2,United States
+21/02/2020,San Francisco,California,6075,2,United States
+21/02/2020,Suffolk,Massachusetts,25025,1,United States
+21/02/2020,Snohomish,Washington,53061,1,United States
+21/02/2020,Bexar,Texas,48029,4,United States
+21/02/2020,Dane,Wisconsin,55025,1,United States
+21/02/2020,San Diego,California,6073,1,United States
+21/02/2020,Sacramento,California,6067,1,United States
+21/02/2020,Douglas,Nebraska,31055,11,United States
+21/02/2020,Maricopa,Arizona,4013,1,United States
+21/02/2020,Humboldt,California,6023,1,United States
+22/02/2020,San Diego,California,6073,1,United States
+22/02/2020,San Francisco,California,6075,2,United States
+22/02/2020,Orange,California,6059,1,United States
+22/02/2020,Humboldt,California,6023,1,United States
+22/02/2020,Sacramento,California,6067,1,United States
+22/02/2020,Suffolk,Massachusetts,25025,1,United States
+22/02/2020,Douglas,Nebraska,31055,11,United States
+22/02/2020,Snohomish,Washington,53061,1,United States
+22/02/2020,Maricopa,Arizona,4013,1,United States
+22/02/2020,Bexar,Texas,48029,4,United States
+22/02/2020,Santa Clara,California,6085,2,United States
+22/02/2020,Dane,Wisconsin,55025,1,United States
+22/02/2020,Los Angeles,California,6037,1,United States
+22/02/2020,Cook,Illinois,17031,2,United States
+23/02/2020,Douglas,Nebraska,31055,11,United States
+23/02/2020,Cook,Illinois,17031,2,United States
+23/02/2020,Orange,California,6059,1,United States
+23/02/2020,Suffolk,Massachusetts,25025,1,United States
+23/02/2020,Dane,Wisconsin,55025,1,United States
+23/02/2020,Bexar,Texas,48029,4,United States
+23/02/2020,Snohomish,Washington,53061,1,United States
+23/02/2020,Santa Clara,California,6085,2,United States
+23/02/2020,San Francisco,California,6075,2,United States
+23/02/2020,San Diego,California,6073,1,United States
+23/02/2020,Sacramento,California,6067,1,United States
+23/02/2020,Maricopa,Arizona,4013,1,United States
+23/02/2020,Los Angeles,California,6037,1,United States
+23/02/2020,Humboldt,California,6023,1,United States
+24/02/2020,Santa Clara,California,6085,2,United States
+24/02/2020,Sacramento,California,6067,1,United States
+24/02/2020,San Francisco,California,6075,3,United States
+24/02/2020,Maricopa,Arizona,4013,1,United States
+24/02/2020,Los Angeles,California,6037,1,United States
+24/02/2020,San Diego,California,6073,1,United States
+24/02/2020,Cook,Illinois,17031,2,United States
+24/02/2020,Orange,California,6059,1,United States
+24/02/2020,Humboldt,California,6023,1,United States
+24/02/2020,Suffolk,Massachusetts,25025,1,United States
+24/02/2020,Douglas,Nebraska,31055,12,United States
+24/02/2020,Solano,California,6095,1,United States
+24/02/2020,Bexar,Texas,48029,10,United States
+24/02/2020,Snohomish,Washington,53061,1,United States
+24/02/2020,Spokane,Washington,53063,4,United States
+24/02/2020,Dane,Wisconsin,55025,1,United States
+25/02/2020,Humboldt,California,6023,1,United States
+25/02/2020,Sacramento,California,6067,1,United States
+25/02/2020,Spokane,Washington,53063,4,United States
+25/02/2020,Los Angeles,California,6037,1,United States
+25/02/2020,Orange,California,6059,1,United States
+25/02/2020,Maricopa,Arizona,4013,1,United States
+25/02/2020,Dane,Wisconsin,55025,1,United States
+25/02/2020,Santa Clara,California,6085,2,United States
+25/02/2020,Douglas,Nebraska,31055,13,United States
+25/02/2020,Solano,California,6095,1,United States
+25/02/2020,San Francisco,California,6075,3,United States
+25/02/2020,San Diego,California,6073,1,United States
+25/02/2020,Snohomish,Washington,53061,1,United States
+25/02/2020,Salt Lake,Utah,49035,1,United States
+25/02/2020,Suffolk,Massachusetts,25025,1,United States
+25/02/2020,Bexar,Texas,48029,10,United States
+25/02/2020,Cook,Illinois,17031,2,United States
+26/02/2020,Santa Clara,California,6085,2,United States
+26/02/2020,Cook,Illinois,17031,2,United States
+26/02/2020,Solano,California,6095,11,United States
+26/02/2020,Los Angeles,California,6037,1,United States
+26/02/2020,Napa,California,6055,1,United States
+26/02/2020,San Francisco,California,6075,3,United States
+26/02/2020,San Diego,California,6073,1,United States
+26/02/2020,Orange,California,6059,1,United States
+26/02/2020,Sonoma,California,6097,1,United States
+26/02/2020,Sacramento,California,6067,3,United States
+26/02/2020,Douglas,Nebraska,31055,13,United States
+26/02/2020,Suffolk,Massachusetts,25025,1,United States
+26/02/2020,Dane,Wisconsin,55025,1,United States
+26/02/2020,Spokane,Washington,53063,4,United States
+26/02/2020,Snohomish,Washington,53061,1,United States
+26/02/2020,Maricopa,Arizona,4013,1,United States
+26/02/2020,Marin,California,6041,1,United States
+26/02/2020,Humboldt,California,6023,1,United States
+26/02/2020,Salt Lake,Utah,49035,1,United States
+26/02/2020,Bexar,Texas,48029,10,United States
+27/02/2020,Douglas,Nebraska,31055,13,United States
+27/02/2020,Sonoma,California,6097,1,United States
+27/02/2020,Suffolk,Massachusetts,25025,1,United States
+27/02/2020,Solano,California,6095,11,United States
+27/02/2020,Dane,Wisconsin,55025,1,United States
+27/02/2020,Bexar,Texas,48029,10,United States
+27/02/2020,Salt Lake,Utah,49035,1,United States
+27/02/2020,Spokane,Washington,53063,4,United States
+27/02/2020,Cook,Illinois,17031,2,United States
+27/02/2020,Snohomish,Washington,53061,1,United States
+27/02/2020,Marin,California,6041,1,United States
+27/02/2020,San Francisco,California,6075,3,United States
+27/02/2020,Los Angeles,California,6037,1,United States
+27/02/2020,Napa,California,6055,1,United States
+27/02/2020,Orange,California,6059,1,United States
+27/02/2020,Humboldt,California,6023,1,United States
+27/02/2020,Maricopa,Arizona,4013,1,United States
+27/02/2020,San Diego,California,6073,1,United States
+27/02/2020,Santa Clara,California,6085,2,United States
+27/02/2020,Sacramento,California,6067,3,United States
+28/02/2020,Solano,California,6095,11,United States
+28/02/2020,Sonoma,California,6097,1,United States
+28/02/2020,Bexar,Texas,48029,11,United States
+28/02/2020,King,Washington,53033,1,United States
+28/02/2020,Dane,Wisconsin,55025,1,United States
+28/02/2020,San Francisco,California,6075,3,United States
+28/02/2020,Cook,Illinois,17031,2,United States
+28/02/2020,Suffolk,Massachusetts,25025,1,United States
+28/02/2020,Washington,Oregon,41067,1,United States
+28/02/2020,Santa Clara,California,6085,3,United States
+28/02/2020,Douglas,Nebraska,31055,13,United States
+28/02/2020,Humboldt,California,6023,1,United States
+28/02/2020,Sacramento,California,6067,3,United States
+28/02/2020,Maricopa,Arizona,4013,1,United States
+28/02/2020,Los Angeles,California,6037,1,United States
+28/02/2020,Marin,California,6041,1,United States
+28/02/2020,San Diego,California,6073,1,United States
+28/02/2020,Spokane,Washington,53063,4,United States
+28/02/2020,Salt Lake,Utah,49035,1,United States
+28/02/2020,Snohomish,Washington,53061,2,United States
+28/02/2020,Napa,California,6055,1,United States
+28/02/2020,Orange,California,6059,1,United States
+29/02/2020,Solano,California,6095,11,United States
+29/02/2020,San Diego,California,6073,1,United States
+29/02/2020,Santa Clara,California,6085,4,United States
+29/02/2020,Marin,California,6041,1,United States
+29/02/2020,Napa,California,6055,1,United States
+29/02/2020,San Francisco,California,6075,3,United States
+29/02/2020,Los Angeles,California,6037,1,United States
+29/02/2020,Maricopa,Arizona,4013,1,United States
+29/02/2020,Humboldt,California,6023,1,United States
+29/02/2020,Spokane,Washington,53063,4,United States
+29/02/2020,Dane,Wisconsin,55025,1,United States
+29/02/2020,Suffolk,Massachusetts,25025,1,United States
+29/02/2020,King,Washington,53033,4,United States
+29/02/2020,Cook,Illinois,17031,3,United States
+29/02/2020,Douglas,Nebraska,31055,13,United States
+29/02/2020,Washington,Oregon,41067,1,United States
+29/02/2020,Snohomish,Washington,53061,2,United States
+29/02/2020,Orange,California,6059,1,United States
+29/02/2020,Sacramento,California,6067,3,United States
+29/02/2020,Sonoma,California,6097,1,United States
+29/02/2020,Bexar,Texas,48029,11,United States
+29/02/2020,Salt Lake,Utah,49035,1,United States
+01/03/2020,Manatee,Florida,12081,1,United States
+01/03/2020,Solano,California,6095,12,United States
+01/03/2020,Sonoma,California,6097,1,United States
+01/03/2020,Sacramento,California,6067,3,United States
+01/03/2020,San Diego,California,6073,1,United States
+01/03/2020,Hillsborough,Florida,12057,1,United States
+01/03/2020,Orange,California,6059,1,United States
+01/03/2020,Napa,California,6055,1,United States
+01/03/2020,Humboldt,California,6023,1,United States
+01/03/2020,Los Angeles,California,6037,1,United States
+01/03/2020,Maricopa,Arizona,4013,1,United States
+01/03/2020,Alameda,California,6001,1,United States
+01/03/2020,Marin,California,6041,1,United States
+01/03/2020,Santa Clara,California,6085,7,United States
+01/03/2020,King,Washington,53033,11,United States
+01/03/2020,Douglas,Nebraska,31055,13,United States
+01/03/2020,New York City,New York,,1,United States
+01/03/2020,Dane,Wisconsin,55025,1,United States
+01/03/2020,Snohomish,Washington,53061,2,United States
+01/03/2020,Spokane,Washington,53063,4,United States
+01/03/2020,Cook,Illinois,17031,3,United States
+01/03/2020,Washington,Oregon,41067,2,United States
+01/03/2020,Unknown,Rhode Island,,2,United States
+01/03/2020,San Francisco,California,6075,3,United States
+01/03/2020,Suffolk,Massachusetts,25025,1,United States
+01/03/2020,Bexar,Texas,48029,11,United States
+01/03/2020,Salt Lake,Utah,49035,1,United States
+02/03/2020,Sacramento,California,6067,3,United States
+02/03/2020,Placer,California,6061,1,United States
+02/03/2020,Napa,California,6055,1,United States
+02/03/2020,San Mateo,California,6081,1,United States
+02/03/2020,Orange,California,6059,1,United States
+02/03/2020,Solano,California,6095,12,United States
+02/03/2020,Suffolk,Massachusetts,25025,1,United States
+02/03/2020,Hillsborough,Florida,12057,1,United States
+02/03/2020,Douglas,Nebraska,31055,13,United States
+02/03/2020,Norfolk,Massachusetts,25021,1,United States
+02/03/2020,Cook,Illinois,17031,4,United States
+02/03/2020,Santa Clara,California,6085,9,United States
+02/03/2020,Grafton,New Hampshire,33009,1,United States
+02/03/2020,Dane,Wisconsin,55025,1,United States
+02/03/2020,Unknown,Rhode Island,,2,United States
+02/03/2020,Spokane,Washington,53063,4,United States
+02/03/2020,Washington,Oregon,41067,2,United States
+02/03/2020,Walla Walla,Washington,53071,1,United States
+02/03/2020,San Francisco,California,6075,3,United States
+02/03/2020,San Diego,California,6073,1,United States
+02/03/2020,Snohomish,Washington,53061,3,United States
+02/03/2020,New York City,New York,,1,United States
+02/03/2020,King,Washington,53033,15,United States
+02/03/2020,Marin,California,6041,1,United States
+02/03/2020,Los Angeles,California,6037,1,United States
+02/03/2020,Alameda,California,6001,1,United States
+02/03/2020,Maricopa,Arizona,4013,1,United States
+02/03/2020,Humboldt,California,6023,1,United States
+02/03/2020,Fulton,Georgia,13121,2,United States
+02/03/2020,Sonoma,California,6097,2,United States
+02/03/2020,Manatee,Florida,12081,1,United States
+02/03/2020,Salt Lake,Utah,49035,1,United States
+02/03/2020,Bexar,Texas,48029,11,United States
+03/03/2020,King,Washington,53033,22,United States
+03/03/2020,New York City,New York,,2,United States
+03/03/2020,Wake,North Carolina,37183,1,United States
+03/03/2020,Unknown,Rhode Island,,2,United States
+03/03/2020,Spokane,Washington,53063,4,United States
+03/03/2020,Washington,Oregon,41067,2,United States
+03/03/2020,Walla Walla,Washington,53071,1,United States
+03/03/2020,Fulton,Georgia,13121,2,United States
+03/03/2020,Manatee,Florida,12081,1,United States
+03/03/2020,Dane,Wisconsin,55025,1,United States
+03/03/2020,Snohomish,Washington,53061,5,United States
+03/03/2020,Bexar,Texas,48029,11,United States
+03/03/2020,Salt Lake,Utah,49035,1,United States
+03/03/2020,San Mateo,California,6081,1,United States
+03/03/2020,Orange,California,6059,3,United States
+03/03/2020,San Francisco,California,6075,3,United States
+03/03/2020,Santa Clara,California,6085,11,United States
+03/03/2020,San Diego,California,6073,1,United States
+03/03/2020,Napa,California,6055,1,United States
+03/03/2020,Norfolk,Massachusetts,25021,1,United States
+03/03/2020,Cook,Illinois,17031,4,United States
+03/03/2020,Solano,California,6095,12,United States
+03/03/2020,Sacramento,California,6067,3,United States
+03/03/2020,Placer,California,6061,2,United States
+03/03/2020,Los Angeles,California,6037,1,United States
+03/03/2020,Alameda,California,6001,2,United States
+03/03/2020,Marin,California,6041,1,United States
+03/03/2020,Humboldt,California,6023,1,United States
+03/03/2020,Contra Costa,California,6013,1,United States
+03/03/2020,Maricopa,Arizona,4013,2,United States
+03/03/2020,Suffolk,Massachusetts,25025,1,United States
+03/03/2020,Douglas,Nebraska,31055,13,United States
+03/03/2020,Hillsborough,Florida,12057,2,United States
+03/03/2020,Grafton,New Hampshire,33009,2,United States
+03/03/2020,Sonoma,California,6097,2,United States
+04/03/2020,Sonoma,California,6097,3,United States
+04/03/2020,Fulton,Georgia,13121,2,United States
+04/03/2020,Manatee,Florida,12081,1,United States
+04/03/2020,Orange,California,6059,3,United States
+04/03/2020,Napa,California,6055,1,United States
+04/03/2020,Sacramento,California,6067,3,United States
+04/03/2020,San Mateo,California,6081,1,United States
+04/03/2020,San Francisco,California,6075,3,United States
+04/03/2020,San Diego,California,6073,1,United States
+04/03/2020,Santa Clara,California,6085,14,United States
+04/03/2020,Douglas,Nebraska,31055,13,United States
+04/03/2020,Suffolk,Massachusetts,25025,1,United States
+04/03/2020,Hillsborough,Florida,12057,2,United States
+04/03/2020,Cook,Illinois,17031,4,United States
+04/03/2020,Placer,California,6061,2,United States
+04/03/2020,Solano,California,6095,12,United States
+04/03/2020,Norfolk,Massachusetts,25021,1,United States
+04/03/2020,Grafton,New Hampshire,33009,2,United States
+04/03/2020,Bergen,New Jersey,34003,1,United States
+04/03/2020,New York City,New York,,2,United States
+04/03/2020,Westchester,New York,36119,9,United States
+04/03/2020,Wake,North Carolina,37183,1,United States
+04/03/2020,Washington,Oregon,41067,2,United States
+04/03/2020,Unknown,Rhode Island,,2,United States
+04/03/2020,Bexar,Texas,48029,11,United States
+04/03/2020,Salt Lake,Utah,49035,1,United States
+04/03/2020,Chelan,Washington,53007,1,United States
+04/03/2020,King,Washington,53033,33,United States
+04/03/2020,Snohomish,Washington,53061,8,United States
+04/03/2020,Walla Walla,Washington,53071,1,United States
+04/03/2020,Fort Bend,Texas,48157,1,United States
+04/03/2020,Dane,Wisconsin,55025,1,United States
+04/03/2020,Spokane,Washington,53063,4,United States
+04/03/2020,Marin,California,6041,1,United States
+04/03/2020,Contra Costa,California,6013,1,United States
+04/03/2020,Humboldt,California,6023,1,United States
+04/03/2020,Maricopa,Arizona,4013,2,United States
+04/03/2020,Alameda,California,6001,2,United States
+04/03/2020,Los Angeles,California,6037,7,United States
+05/03/2020,Unknown,Rhode Island,,2,United States
+05/03/2020,Spokane,Washington,53063,4,United States
+05/03/2020,Cook,Illinois,17031,5,United States
+05/03/2020,Montgomery,Maryland,24031,3,United States
+05/03/2020,Chelan,Washington,53007,1,United States
+05/03/2020,King,Washington,53033,52,United States
+05/03/2020,Walla Walla,Washington,53071,1,United States
+05/03/2020,Dane,Wisconsin,55025,1,United States
+05/03/2020,Snohomish,Washington,53061,17,United States
+05/03/2020,New York City,New York,,4,United States
+05/03/2020,Westchester,New York,36119,17,United States
+05/03/2020,Bergen,New Jersey,34003,2,United States
+05/03/2020,Clark,Nevada,32003,1,United States
+05/03/2020,Washoe,Nevada,32031,1,United States
+05/03/2020,Grafton,New Hampshire,33009,2,United States
+05/03/2020,Douglas,Nebraska,31055,13,United States
+05/03/2020,Nassau,New York,36059,1,United States
+05/03/2020,Manatee,Florida,12081,1,United States
+05/03/2020,Middlesex,Massachusetts,25017,1,United States
+05/03/2020,Norfolk,Massachusetts,25021,1,United States
+05/03/2020,Hillsborough,Florida,12057,2,United States
+05/03/2020,Suffolk,Massachusetts,25025,1,United States
+05/03/2020,Santa Rosa,Florida,12113,1,United States
+05/03/2020,Fulton,Georgia,13121,2,United States
+05/03/2020,Williamson,Tennessee,47187,1,United States
+05/03/2020,Humboldt,California,6023,1,United States
+05/03/2020,Sacramento,California,6067,3,United States
+05/03/2020,Sonoma,California,6097,3,United States
+05/03/2020,Contra Costa,California,6013,1,United States
+05/03/2020,Alameda,California,6001,2,United States
+05/03/2020,Los Angeles,California,6037,11,United States
+05/03/2020,San Mateo,California,6081,1,United States
+05/03/2020,Douglas,Colorado,8035,1,United States
+05/03/2020,Jefferson,Colorado,8059,1,United States
+05/03/2020,Solano,California,6095,12,United States
+05/03/2020,Santa Clara,California,6085,20,United States
+05/03/2020,San Diego,California,6073,1,United States
+05/03/2020,San Francisco,California,6075,5,United States
+05/03/2020,Orange,California,6059,3,United States
+05/03/2020,Salt Lake,Utah,49035,1,United States
+05/03/2020,Bexar,Texas,48029,11,United States
+05/03/2020,Harris,Texas,48201,4,United States
+05/03/2020,Wake,North Carolina,37183,1,United States
+05/03/2020,Washington,Oregon,41067,2,United States
+05/03/2020,Marin,California,6041,1,United States
+05/03/2020,Napa,California,6055,1,United States
+05/03/2020,Placer,California,6061,2,United States
+05/03/2020,Fort Bend,Texas,48157,1,United States
+05/03/2020,Maricopa,Arizona,4013,2,United States
+06/03/2020,Maricopa,Arizona,4013,2,United States
+06/03/2020,Pinal,Arizona,4021,1,United States
+06/03/2020,Alameda,California,6001,3,United States
+06/03/2020,Contra Costa,California,6013,4,United States
+06/03/2020,Humboldt,California,6023,1,United States
+06/03/2020,Santa Clara,California,6085,24,United States
+06/03/2020,Marin,California,6041,1,United States
+06/03/2020,Napa,California,6055,1,United States
+06/03/2020,Orange,California,6059,3,United States
+06/03/2020,Placer,California,6061,5,United States
+06/03/2020,Sacramento,California,6067,3,United States
+06/03/2020,Solano,California,6095,12,United States
+06/03/2020,Yolo,California,6113,1,United States
+06/03/2020,Sonoma,California,6097,3,United States
+06/03/2020,Los Angeles,California,6037,13,United States
+06/03/2020,San Diego,California,6073,1,United States
+06/03/2020,San Mateo,California,6081,1,United States
+06/03/2020,San Francisco,California,6075,5,United States
+06/03/2020,Douglas,Colorado,8035,3,United States
+06/03/2020,Denver,Colorado,8031,2,United States
+06/03/2020,Eagle,Colorado,8037,1,United States
+06/03/2020,El Paso,Colorado,8041,1,United States
+06/03/2020,Jefferson,Colorado,8059,1,United States
+06/03/2020,Broward,Florida,12011,2,United States
+06/03/2020,Hillsborough,Florida,12057,2,United States
+06/03/2020,Lee,Florida,12071,1,United States
+06/03/2020,Manatee,Florida,12081,1,United States
+06/03/2020,Santa Rosa,Florida,12113,1,United States
+06/03/2020,Fulton,Georgia,13121,2,United States
+06/03/2020,Polk,Georgia,13233,1,United States
+06/03/2020,Honolulu,Hawaii,15003,1,United States
+06/03/2020,Cook,Illinois,17031,6,United States
+06/03/2020,Marion,Indiana,18097,1,United States
+06/03/2020,Fayette,Kentucky,21067,1,United States
+06/03/2020,Montgomery,Maryland,24031,3,United States
+06/03/2020,Middlesex,Massachusetts,25017,1,United States
+06/03/2020,Norfolk,Massachusetts,25021,3,United States
+06/03/2020,Suffolk,Massachusetts,25025,4,United States
+06/03/2020,Ramsey,Minnesota,27123,1,United States
+06/03/2020,Douglas,Nebraska,31055,14,United States
+06/03/2020,Clark,Nevada,32003,1,United States
+06/03/2020,Washoe,Nevada,32031,1,United States
+06/03/2020,Camden,New Jersey,34007,1,United States
+06/03/2020,Bergen,New Jersey,34003,3,United States
+06/03/2020,Clark,Washington,53011,1,United States
+06/03/2020,Nassau,New York,36059,4,United States
+06/03/2020,Grafton,New Hampshire,33009,2,United States
+06/03/2020,Rockland,New York,36087,2,United States
+06/03/2020,Westchester,New York,36119,33,United States
+06/03/2020,Wake,North Carolina,37183,1,United States
+06/03/2020,Chatham,North Carolina,37037,1,United States
+06/03/2020,Delaware,Pennsylvania,42045,1,United States
+06/03/2020,Washington,Oregon,41067,2,United States
+06/03/2020,New York City,New York,,5,United States
+06/03/2020,Wayne,Pennsylvania,42127,1,United States
+06/03/2020,Tulsa,Oklahoma,40143,1,United States
+06/03/2020,Williamson,Tennessee,47187,1,United States
+06/03/2020,Unknown,Rhode Island,,3,United States
+06/03/2020,Salt Lake,Utah,49035,1,United States
+06/03/2020,Kershaw,South Carolina,45055,1,United States
+06/03/2020,Charleston,South Carolina,45019,1,United States
+06/03/2020,Bexar,Texas,48029,11,United States
+06/03/2020,Fort Bend,Texas,48157,3,United States
+06/03/2020,Harris,Texas,48201,5,United States
+06/03/2020,Davis,Utah,49011,1,United States
+06/03/2020,Chelan,Washington,53007,1,United States
+06/03/2020,Snohomish,Washington,53061,18,United States
+06/03/2020,Jefferson,Washington,53031,1,United States
+06/03/2020,Washington,Utah,49053,1,United States
+06/03/2020,Spokane,Washington,53063,4,United States
+06/03/2020,King,Washington,53033,59,United States
+06/03/2020,Pierce,Washington,53053,1,United States
+06/03/2020,Dane,Wisconsin,55025,1,United States
+06/03/2020,Walla Walla,Washington,53071,1,United States
+07/03/2020,Pinal,Arizona,4021,3,United States
+07/03/2020,Fresno,California,6019,1,United States
+07/03/2020,Los Angeles,California,6037,14,United States
+07/03/2020,Maricopa,Arizona,4013,2,United States
+07/03/2020,Contra Costa,California,6013,4,United States
+07/03/2020,Jefferson,Colorado,8059,1,United States
+07/03/2020,Humboldt,California,6023,1,United States
+07/03/2020,Alameda,California,6001,3,United States
+07/03/2020,Madera,California,6039,1,United States
+07/03/2020,Marin,California,6041,1,United States
+07/03/2020,Napa,California,6055,1,United States
+07/03/2020,Orange,California,6059,3,United States
+07/03/2020,Placer,California,6061,5,United States
+07/03/2020,Riverside,California,6065,1,United States
+07/03/2020,Sacramento,California,6067,3,United States
+07/03/2020,San Diego,California,6073,1,United States
+07/03/2020,San Francisco,California,6075,11,United States
+07/03/2020,San Mateo,California,6081,1,United States
+07/03/2020,Santa Clara,California,6085,32,United States
+07/03/2020,Santa Cruz,California,6087,1,United States
+07/03/2020,Solano,California,6095,12,United States
+07/03/2020,Sonoma,California,6097,3,United States
+07/03/2020,Yolo,California,6113,1,United States
+07/03/2020,Denver,Colorado,8031,2,United States
+07/03/2020,El Paso,Colorado,8041,1,United States
+07/03/2020,Hillsborough,Florida,12057,2,United States
+07/03/2020,District of Columbia,District of Columbia,11001,1,United States
+07/03/2020,Eagle,Colorado,8037,1,United States
+07/03/2020,Charlotte,Florida,12015,1,United States
+07/03/2020,Douglas,Colorado,8035,3,United States
+07/03/2020,Lee,Florida,12071,2,United States
+07/03/2020,Broward,Florida,12011,2,United States
+07/03/2020,Grafton,New Hampshire,33009,3,United States
+07/03/2020,Ramsey,Minnesota,27123,1,United States
+07/03/2020,Suffolk,Massachusetts,25025,4,United States
+07/03/2020,Washoe,Nevada,32031,1,United States
+07/03/2020,Clark,Nevada,32003,1,United States
+07/03/2020,Rockingham,New Hampshire,33015,1,United States
+07/03/2020,Westchester,New York,36119,69,United States
+07/03/2020,Saratoga,New York,36091,2,United States
+07/03/2020,Wake,North Carolina,37183,1,United States
+07/03/2020,Douglas,Nebraska,31055,14,United States
+07/03/2020,St. Louis,Missouri,29189,1,United States
+07/03/2020,Bergen,New Jersey,34003,3,United States
+07/03/2020,Fairfax,Virginia,51059,1,United States
+07/03/2020,Delaware,Pennsylvania,42045,1,United States
+07/03/2020,Montgomery,Pennsylvania,42091,2,United States
+07/03/2020,Dane,Wisconsin,55025,1,United States
+07/03/2020,Jackson,Oregon,41029,2,United States
+07/03/2020,Wayne,Pennsylvania,42127,1,United States
+07/03/2020,Unknown,Rhode Island,,3,United States
+07/03/2020,Chelan,Washington,53007,1,United States
+07/03/2020,Clark,Washington,53011,1,United States
+07/03/2020,Bennington,Vermont,50003,1,United States
+07/03/2020,Spokane,Washington,53063,4,United States
+07/03/2020,Walla Walla,Washington,53071,1,United States
+07/03/2020,Snohomish,Washington,53061,26,United States
+07/03/2020,Chatham,North Carolina,37037,1,United States
+07/03/2020,Middlesex,Massachusetts,25017,5,United States
+07/03/2020,Marion,Indiana,18097,1,United States
+07/03/2020,Cook,Illinois,17031,6,United States
+07/03/2020,Berkshire,Massachusetts,25003,1,United States
+07/03/2020,Montgomery,Maryland,24031,3,United States
+07/03/2020,Norfolk,Massachusetts,25021,3,United States
+07/03/2020,Jefferson,Washington,53031,1,United States
+07/03/2020,Pierce,Washington,53053,3,United States
+07/03/2020,Kittitas,Washington,53037,1,United States
+07/03/2020,Fayette,Kentucky,21067,1,United States
+07/03/2020,Johnson,Kansas,20091,1,United States
+07/03/2020,King,Washington,53033,72,United States
+07/03/2020,Honolulu,Hawaii,15003,1,United States
+07/03/2020,New York City,New York,,12,United States
+07/03/2020,Fulton,Georgia,13121,4,United States
+07/03/2020,Cobb,Georgia,13067,1,United States
+07/03/2020,Nassau,New York,36059,4,United States
+07/03/2020,Camden,New Jersey,34007,1,United States
+07/03/2020,Rockland,New York,36087,2,United States
+07/03/2020,Manatee,Florida,12081,2,United States
+07/03/2020,Volusia,Florida,12127,1,United States
+07/03/2020,Santa Rosa,Florida,12113,1,United States
+07/03/2020,Polk,Georgia,13233,1,United States
+07/03/2020,Gwinnett,Georgia,13135,1,United States
+07/03/2020,Okaloosa,Florida,12091,1,United States
+07/03/2020,Williamson,Tennessee,47187,1,United States
+07/03/2020,Salt Lake,Utah,49035,1,United States
+07/03/2020,Washington,Utah,49053,1,United States
+07/03/2020,Bexar,Texas,48029,11,United States
+07/03/2020,Fort Bend,Texas,48157,3,United States
+07/03/2020,Kershaw,South Carolina,45055,1,United States
+07/03/2020,Klamath,Oregon,41035,1,United States
+07/03/2020,Washington,Oregon,41067,3,United States
+07/03/2020,Tulsa,Oklahoma,40143,1,United States
+07/03/2020,Harris,Texas,48201,5,United States
+07/03/2020,Davis,Utah,49011,1,United States
+07/03/2020,Charleston,South Carolina,45019,1,United States
+08/03/2020,Kershaw,South Carolina,45055,4,United States
+08/03/2020,Charleston,South Carolina,45019,1,United States
+08/03/2020,Spartanburg,South Carolina,45083,1,United States
+08/03/2020,Davidson,Tennessee,47037,1,United States
+08/03/2020,Tulsa,Oklahoma,40143,1,United States
+08/03/2020,Westchester,New York,36119,81,United States
+08/03/2020,Washington,Oregon,41067,8,United States
+08/03/2020,Wake,North Carolina,37183,1,United States
+08/03/2020,Montgomery,Pennsylvania,42091,4,United States
+08/03/2020,Washington,Utah,49053,1,United States
+08/03/2020,Salt Lake,Utah,49035,1,United States
+08/03/2020,Davis,Utah,49011,1,United States
+08/03/2020,Harris,Texas,48201,6,United States
+08/03/2020,Unknown,Rhode Island,,3,United States
+08/03/2020,Delaware,Pennsylvania,42045,1,United States
+08/03/2020,Williamson,Tennessee,47187,1,United States
+08/03/2020,Wayne,Pennsylvania,42127,1,United States
+08/03/2020,Pinal,Arizona,4021,3,United States
+08/03/2020,Fresno,California,6019,1,United States
+08/03/2020,Contra Costa,California,6013,9,United States
+08/03/2020,Pierce,Washington,53053,4,United States
+08/03/2020,King,Washington,53033,91,United States
+08/03/2020,Alameda,California,6001,3,United States
+08/03/2020,Kitsap,Washington,53035,1,United States
+08/03/2020,Fort Bend,Texas,48157,6,United States
+08/03/2020,Shelby,Tennessee,47157,1,United States
+08/03/2020,Ulster,New York,36111,1,United States
+08/03/2020,Bennington,Vermont,50003,1,United States
+08/03/2020,Maricopa,Arizona,4013,2,United States
+08/03/2020,Bexar,Texas,48029,11,United States
+08/03/2020,Kittitas,Washington,53037,1,United States
+08/03/2020,Douglas,Oregon,41019,1,United States
+08/03/2020,Jackson,Oregon,41029,2,United States
+08/03/2020,Clark,Washington,53011,1,United States
+08/03/2020,Chatham,North Carolina,37037,1,United States
+08/03/2020,Klamath,Oregon,41035,1,United States
+08/03/2020,Marion,Oregon,41047,1,United States
+08/03/2020,Jefferson,Washington,53031,1,United States
+08/03/2020,Snohomish,Washington,53061,36,United States
+08/03/2020,Spokane,Washington,53063,4,United States
+08/03/2020,Chelan,Washington,53007,1,United States
+08/03/2020,Fairfax,Virginia,51059,2,United States
+08/03/2020,Walla Walla,Washington,53071,1,United States
+08/03/2020,Dane,Wisconsin,55025,1,United States
+08/03/2020,Los Angeles,California,6037,14,United States
+08/03/2020,Madera,California,6039,1,United States
+08/03/2020,Marin,California,6041,1,United States
+08/03/2020,Napa,California,6055,1,United States
+08/03/2020,Orange,California,6059,3,United States
+08/03/2020,Placer,California,6061,7,United States
+08/03/2020,Riverside,California,6065,1,United States
+08/03/2020,Sacramento,California,6067,3,United States
+08/03/2020,San Diego,California,6073,1,United States
+08/03/2020,San Francisco,California,6075,11,United States
+08/03/2020,San Mateo,California,6081,1,United States
+08/03/2020,Santa Clara,California,6085,37,United States
+08/03/2020,Santa Cruz,California,6087,1,United States
+08/03/2020,Solano,California,6095,12,United States
+08/03/2020,Sonoma,California,6097,3,United States
+08/03/2020,Yolo,California,6113,1,United States
+08/03/2020,Denver,Colorado,8031,2,United States
+08/03/2020,Douglas,Colorado,8035,3,United States
+08/03/2020,Eagle,Colorado,8037,1,United States
+08/03/2020,El Paso,Colorado,8041,1,United States
+08/03/2020,Jefferson,Colorado,8059,1,United States
+08/03/2020,Fairfield,Connecticut,9001,1,United States
+08/03/2020,District of Columbia,District of Columbia,11001,1,United States
+08/03/2020,Broward,Florida,12011,3,United States
+08/03/2020,Charlotte,Florida,12015,1,United States
+08/03/2020,Hillsborough,Florida,12057,2,United States
+08/03/2020,Lee,Florida,12071,2,United States
+08/03/2020,Manatee,Florida,12081,2,United States
+08/03/2020,Okaloosa,Florida,12091,1,United States
+08/03/2020,Santa Rosa,Florida,12113,1,United States
+08/03/2020,Volusia,Florida,12127,1,United States
+08/03/2020,Cherokee,Georgia,13057,1,United States
+08/03/2020,Cobb,Georgia,13067,3,United States
+08/03/2020,Fulton,Georgia,13121,5,United States
+08/03/2020,Clark,Nevada,32003,2,United States
+08/03/2020,Norfolk,Massachusetts,25021,7,United States
+08/03/2020,Jefferson,Kentucky,21111,1,United States
+08/03/2020,Berkshire,Massachusetts,25003,1,United States
+08/03/2020,Suffolk,Massachusetts,25025,9,United States
+08/03/2020,Johnson,Kansas,20091,1,United States
+08/03/2020,Hendricks,Indiana,18063,1,United States
+08/03/2020,Harrison,Kentucky,21097,1,United States
+08/03/2020,Montgomery,Maryland,24031,4,United States
+08/03/2020,Middlesex,Massachusetts,25017,10,United States
+08/03/2020,Johnson,Iowa,19103,3,United States
+08/03/2020,Humboldt,California,6023,1,United States
+08/03/2020,Gwinnett,Georgia,13135,1,United States
+08/03/2020,Polk,Georgia,13233,1,United States
+08/03/2020,Fayette,Kentucky,21067,2,United States
+08/03/2020,Harford,Maryland,24025,1,United States
+08/03/2020,Cook,Illinois,17031,7,United States
+08/03/2020,Honolulu,Hawaii,15003,2,United States
+08/03/2020,St. Louis,Missouri,29189,1,United States
+08/03/2020,Worcester,Massachusetts,25027,1,United States
+08/03/2020,Rockingham,New Hampshire,33015,1,United States
+08/03/2020,Ramsey,Minnesota,27123,1,United States
+08/03/2020,Grafton,New Hampshire,33009,3,United States
+08/03/2020,Douglas,Nebraska,31055,16,United States
+08/03/2020,Carver,Minnesota,27019,1,United States
+08/03/2020,Washoe,Nevada,32031,2,United States
+08/03/2020,Rockland,New York,36087,2,United States
+08/03/2020,Nassau,New York,36059,5,United States
+08/03/2020,Bergen,New Jersey,34003,4,United States
+08/03/2020,Marion,Indiana,18097,1,United States
+08/03/2020,Passaic,New Jersey,34031,1,United States
+08/03/2020,Suffolk,New York,36103,1,United States
+08/03/2020,New York City,New York,,14,United States
+08/03/2020,Camden,New Jersey,34007,1,United States
+08/03/2020,Saratoga,New York,36091,2,United States
+09/03/2020,Harris,Texas,48201,6,United States
+09/03/2020,Davidson,Tennessee,47037,1,United States
+09/03/2020,Fort Bend,Texas,48157,6,United States
+09/03/2020,Davis,Utah,49011,1,United States
+09/03/2020,Salt Lake,Utah,49035,1,United States
+09/03/2020,Montgomery,Pennsylvania,42091,7,United States
+09/03/2020,Kershaw,South Carolina,45055,5,United States
+09/03/2020,Spartanburg,South Carolina,45083,1,United States
+09/03/2020,Monroe,Pennsylvania,42089,1,United States
+09/03/2020,Wayne,Pennsylvania,42127,1,United States
+09/03/2020,Delaware,Pennsylvania,42045,1,United States
+09/03/2020,Dane,Wisconsin,55025,1,United States
+09/03/2020,Walla Walla,Washington,53071,1,United States
+09/03/2020,Clark,Nevada,32003,2,United States
+09/03/2020,Virginia Beach city,Virginia,51810,1,United States
+09/03/2020,Fairfax,Virginia,51059,4,United States
+09/03/2020,Kitsap,Washington,53035,1,United States
+09/03/2020,Pierce,Wisconsin,55093,1,United States
+09/03/2020,Snohomish,Washington,53061,45,United States
+09/03/2020,Charleston,South Carolina,45019,1,United States
+09/03/2020,Unknown,Rhode Island,,3,United States
+09/03/2020,Pierce,Washington,53053,7,United States
+09/03/2020,Kittitas,Washington,53037,1,United States
+09/03/2020,Spokane,Washington,53063,4,United States
+09/03/2020,Williamson,Tennessee,47187,2,United States
+09/03/2020,Solano,California,6095,12,United States
+09/03/2020,San Diego,California,6073,2,United States
+09/03/2020,San Francisco,California,6075,16,United States
+09/03/2020,Jefferson,Colorado,8059,1,United States
+09/03/2020,Douglas,Colorado,8035,3,United States
+09/03/2020,Eagle,Colorado,8037,2,United States
+09/03/2020,Shasta,California,6089,1,United States
+09/03/2020,San Mateo,California,6081,9,United States
+09/03/2020,Santa Clara,California,6085,43,United States
+09/03/2020,Riverside,California,6065,4,United States
+09/03/2020,Sacramento,California,6067,9,United States
+09/03/2020,Santa Cruz,California,6087,2,United States
+09/03/2020,Hudson,New Jersey,34017,1,United States
+09/03/2020,Camden,New Jersey,34007,1,United States
+09/03/2020,Passaic,New Jersey,34031,1,United States
+09/03/2020,Shelby,Tennessee,47157,1,United States
+09/03/2020,Collin,Texas,48085,1,United States
+09/03/2020,Bexar,Texas,48029,11,United States
+09/03/2020,Bergen,New Jersey,34003,5,United States
+09/03/2020,Rockingham,New Hampshire,33015,1,United States
+09/03/2020,Larimer,Colorado,8069,1,United States
+09/03/2020,Monmouth,New Jersey,34025,2,United States
+09/03/2020,Grafton,New Hampshire,33009,3,United States
+09/03/2020,Washoe,Nevada,32031,2,United States
+09/03/2020,Montgomery,Maryland,24031,4,United States
+09/03/2020,Johnson,Kansas,20091,1,United States
+09/03/2020,Harford,Maryland,24025,1,United States
+09/03/2020,Prince George's,Maryland,24033,1,United States
+09/03/2020,Berkshire,Massachusetts,25003,5,United States
+09/03/2020,Honolulu,Hawaii,15003,2,United States
+09/03/2020,Johnson,Iowa,19103,7,United States
+09/03/2020,Polk,Georgia,13233,1,United States
+09/03/2020,Cook,Illinois,17031,11,United States
+09/03/2020,Hendricks,Indiana,18063,2,United States
+09/03/2020,Okaloosa,Florida,12091,1,United States
+09/03/2020,Hillsborough,Florida,12057,2,United States
+09/03/2020,Manatee,Florida,12081,2,United States
+09/03/2020,Fairfield,Connecticut,9001,2,United States
+09/03/2020,District of Columbia,District of Columbia,11001,4,United States
+09/03/2020,Fayette,Kentucky,21067,3,United States
+09/03/2020,Harrison,Kentucky,21097,1,United States
+09/03/2020,Jefferson,Louisiana,22051,1,United States
+09/03/2020,Lee,Florida,12071,2,United States
+09/03/2020,Jefferson,Kentucky,21111,1,United States
+09/03/2020,Pottawattamie,Iowa,19155,1,United States
+09/03/2020,Maricopa,Arizona,4013,2,United States
+09/03/2020,Pima,Arizona,4019,1,United States
+09/03/2020,Alameda,California,6001,24,United States
+09/03/2020,Contra Costa,California,6013,9,United States
+09/03/2020,Pinal,Arizona,4021,3,United States
+09/03/2020,Yolo,California,6113,1,United States
+09/03/2020,El Paso,Colorado,8041,1,United States
+09/03/2020,Sonoma,California,6097,3,United States
+09/03/2020,Arapahoe,Colorado,8005,1,United States
+09/03/2020,Denver,Colorado,8031,3,United States
+09/03/2020,Madera,California,6039,1,United States
+09/03/2020,Fresno,California,6019,1,United States
+09/03/2020,Los Angeles,California,6037,19,United States
+09/03/2020,Marion,Indiana,18097,1,United States
+09/03/2020,Noble,Indiana,18113,1,United States
+09/03/2020,Marin,California,6041,2,United States
+09/03/2020,Napa,California,6055,1,United States
+09/03/2020,Placer,California,6061,7,United States
+09/03/2020,Humboldt,California,6023,1,United States
+09/03/2020,Orange,California,6059,5,United States
+09/03/2020,Charlotte,Florida,12015,1,United States
+09/03/2020,Ramsey,Minnesota,27123,1,United States
+09/03/2020,Tulsa,Oklahoma,40143,1,United States
+09/03/2020,Carver,Minnesota,27019,1,United States
+09/03/2020,St. Louis,Missouri,29189,1,United States
+09/03/2020,Douglas,Nebraska,31055,16,United States
+09/03/2020,Marion,Oregon,41047,1,United States
+09/03/2020,Washington,Oregon,41067,8,United States
+09/03/2020,Cuyahoga,Ohio,39035,3,United States
+09/03/2020,Douglas,Oregon,41019,1,United States
+09/03/2020,Wake,North Carolina,37183,6,United States
+09/03/2020,King,Washington,53033,117,United States
+09/03/2020,Chelan,Washington,53007,1,United States
+09/03/2020,Jefferson,Washington,53031,1,United States
+09/03/2020,Washington,Utah,49053,1,United States
+09/03/2020,Bennington,Vermont,50003,1,United States
+09/03/2020,Middlesex,Massachusetts,25017,15,United States
+09/03/2020,Norfolk,Massachusetts,25021,10,United States
+09/03/2020,Worcester,Massachusetts,25027,1,United States
+09/03/2020,Clark,Washington,53011,1,United States
+09/03/2020,Suffolk,Massachusetts,25025,10,United States
+09/03/2020,Jackson,Oregon,41029,2,United States
+09/03/2020,Cherokee,Georgia,13057,1,United States
+09/03/2020,Fulton,Georgia,13121,5,United States
+09/03/2020,Volusia,Florida,12127,2,United States
+09/03/2020,Cobb,Georgia,13067,4,United States
+09/03/2020,DeKalb,Georgia,13089,2,United States
+09/03/2020,Santa Rosa,Florida,12113,1,United States
+09/03/2020,Broward,Florida,12011,3,United States
+09/03/2020,Floyd,Georgia,13115,1,United States
+09/03/2020,Gwinnett,Georgia,13135,2,United States
+09/03/2020,Fayette,Georgia,13113,1,United States
+09/03/2020,Rockland,New York,36087,4,United States
+09/03/2020,Union,New Jersey,34039,1,United States
+09/03/2020,New York City,New York,,20,United States
+09/03/2020,Klamath,Oregon,41035,1,United States
+09/03/2020,Chatham,North Carolina,37037,1,United States
+09/03/2020,Saratoga,New York,36091,2,United States
+09/03/2020,Suffolk,New York,36103,1,United States
+09/03/2020,Westchester,New York,36119,97,United States
+09/03/2020,Nassau,New York,36059,17,United States
+09/03/2020,Ulster,New York,36111,1,United States
+10/03/2020,Charlton,Georgia,13049,1,United States
+10/03/2020,Cherokee,Georgia,13057,1,United States
+10/03/2020,DeKalb,Georgia,13089,2,United States
+10/03/2020,Pinellas,Florida,12103,2,United States
